@@ -3,3 +3,5 @@ It allows you to increment the scores by values of 1, 2, and 3
 You can clear the scoreboard
 A Timer can be set by using the START/RESET TIMER button
 And you can reset the timer whenever you want to.
+At the end of the game. The timer disappears and "FINAL TIME" message appears.
+It also then displays a result of what team beat who, and by the goal difference or whether they drew
